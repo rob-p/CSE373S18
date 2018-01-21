@@ -4,9 +4,6 @@ title: Course Policies
 published: true
 ---
 
-
-## Course Policies
-
 **Coursework and grading**: The coursework will consist of three exams, two midterms and a final. In addition there will be approximately 6 homework assignments (one of which will be a programming assignment). The breakdown of weights for these different assignments will be as follows:
 
 - Midterm 1 — 25%

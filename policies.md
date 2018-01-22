@@ -4,14 +4,14 @@ title: Course Policies
 published: true
 ---
 
-**Coursework and grading**: The coursework will consist of three exams, two midterms and a final. In addition there will be approximately 6 homework assignments (one of which will be a programming assignment). The breakdown of weights for these different assignments will be as follows:
+**Coursework and grading**: The coursework will consist of three exams, two midterms and a final. In addition there will be approximately 5-7 homework assignments, and the lowest homework grade will be dropped when computing the contribution of homeworks to your final grade. The breakdown of weights for these different assignments will be as follows:
 
 - Midterm 1 — 25%
 - Midterm 2 - 25%
 - Final — 30%
 - Homeworks — 20%
 
-**Homeworks**: Homeworks are due _at the beginning of class_ on the due date.  All homeworks (except the programming assignment) must be typeset, preferrably using LaTeX.  Problem solutions should not be hand-written.  You are _encouraged_ to discuss the problems and solutions with your classmates, but you must write up your solutions yourself.  That is, it is acceptable to discuss how to approach or solve a problem with a classmate, but you should not sit with them when writing up the solution, and the solution should be written using your own words.  Also, if you discuss a homework problem with someone in the course, then **list these collaborators** in the assignment you turn in.
+**Homeworks**: Homeworks are due _by the of class_ on the due date and are to be turned in electronically.  All homeworks (with the exception of a possible programming assignment) must be typeset, preferrably using LaTeX.  You are _encouraged_ to discuss the problems and solutions with your classmates, but you must write up your solutions yourself.  That is, it is acceptable to discuss how to approach or solve a problem with a classmate, but you should not sit with them when writing up the solution, and the solution should be written using your own words (you may not write up a solution from shared notes).  Also, if you discuss a homework problem with someone in the course, then **list these collaborators** at the top of the first page on the assignment you turn in.
 
 **Late policy**: Late assignments will not be accepted.
 

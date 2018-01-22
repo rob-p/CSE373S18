@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: CSE 373 Spring 2018
-description: Course Website
+description: Analysis of Algorithms
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://rob-p.github.io/CSE373S18

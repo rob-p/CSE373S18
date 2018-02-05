@@ -21,4 +21,6 @@ published: true
     * Rob (NCS 259): Mon 2:30 &mdash; 4:00 ; Thurs. 10:00 &mdash; 11:30 
     * Caitao Zhan (Old CS 2217): Tues.,Thurs. : 2:30 &mdash 4:00
     * Wasif Khan (Old CS 2217): Tues: 2:30pm &mdash 5:30pm  (starting Feb. 13)
+    * Sabir Ismail (Old CS 2217): Mon : 2:30pm &mdash 4:00pm
+    * Lise Ho (Old CS 2217): Mon : 4:00pm &mdash 5:00 pm
     

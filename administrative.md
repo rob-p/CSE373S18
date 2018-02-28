@@ -13,9 +13,9 @@ published: true
     * Sabir Ismail (sabir.ismail@stonybrook.edu)
 * **Undergraduate TAs**: 
     * Lise Ho
-    * Kyeongsoo Kim
-    * Matthew Weston
-    * Freeman Lou
+    * Kyeongsoo Kim -- Thurs. 2:30 - 3:30PM (Old CS 2217)
+    * Matthew Weston 
+    * Freeman Lou -- Wed 4-5PM (Old CS 2217)
 
 * **Office Hours**:
     * Rob (NCS 259): Mon 2:30 &mdash; 4:00 ; Thurs. 10:00 &mdash; 11:30 

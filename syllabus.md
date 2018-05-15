@@ -114,4 +114,4 @@ The following is a list of the topics I intend to cover this semester.  This lis
 * Week 15 (Apr 30.)
   - Review and wrap-up **Final day of class**: Friday, May 4, 2018 (May the fourth be with you)
   
-* **Final Exam**: Monday May 14, 2018 (2:15PM &mdash; 5:00PM).  Location TBD.
+* **Final Exam**: Monday May 14, 2018 (2:15PM &mdash; 5:00PM).  
